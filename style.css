@@ -1,1 +1,40 @@
+body{
+  margin:0px;
+}
+header {
+  background-color: #0000e6;
+  padding:20px;
+  margin:0px;
+}
+header a{
+   color: white;
+   text-decoration:none;
+   font-size:20px;
+}
+article a{
+   color: white;
+   text-decoration:none;
+   font-size:15px;
+}
+nav{
+   display:flex;
+   justify-content: space-around;
+}
+article {
+    margin-top:15px;
+    width:80px;
+    background-color: #0000e6;
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    position: fixed;
+}
+
+section{
+
+  margin:30px 100px 30px 100px;
+
+}
+
 
