@@ -21,7 +21,6 @@ nav{
    justify-content: space-around;
 }
 article {
-    margin-top:15px;
     width:80px;
     background-color: #0000e6;
     padding:10px;
@@ -32,7 +31,6 @@ article {
 }
 
 section{
-
   margin:30px 100px 30px 100px;
 
 }
