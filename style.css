@@ -51,4 +51,6 @@ main{
     box-shadow:5px 5px 5px 5px #99bbff;
     background-color:white;
 }
-
+.algo h3{
+    text-align: right;
+}
