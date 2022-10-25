@@ -20,7 +20,7 @@ header a{
 .menu a:hover{
     font-size:20px;
     color:#e6ffe6;
-    transition:1s, ease-out;
+    transition:1s ease-out;
 }
 nav{
    display:flex;
@@ -31,14 +31,16 @@ nav{
     background-color: #0000e6;
     padding:10px;
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     justify-content:flex-start;
     position: fixed;
+    left:0px;
+    top:60px;
 }
 .menu:hover{
     width:120px;
     background-color:#0000e6;
-    transition:1s, ease-out;
+    transition:1s ease-out;
 }
 main{
   margin:30px 100px 30px 100px;
